@@ -1,6 +1,6 @@
 [![doodle]][doodle-story]
 
-[doodle]: https://www.google.com/logos/doodles/2015/holidays-2015-day-3-6399865393250304-hp2x.jpg "春节快乐!"
+[doodle]: https://www.google.com/logos/doodles/2015/holidays-2015-day-3-6399865393250304-hp2x.jpg "春节快乐1111!"
 [doodle-story]: https://www.google.com.hk/search?q=%E6%98%A5%E8%8A%82
 
 > 使用本项目前，请先阅读 [README](README.md) 和 [License](#license)
